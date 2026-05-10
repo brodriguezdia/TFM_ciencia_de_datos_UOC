@@ -8,7 +8,8 @@ Este repositorio contiene el código y los productos derivados del análisis de 
 
 ## Estructura
 
-- `R/`: script principal del pipeline.
+- `TFM_canarias_pipeline_final.R`: script principal del pipeline.
+- `.RData`: R Data file que contiene todo el environment ejecutado
 - `data/`: datos brutos, procesados y metadatos.
 - `outputs/tables/`: tablas generadas.
 - `outputs/figures/`: figuras generadas.
@@ -19,7 +20,20 @@ Este repositorio contiene el código y los productos derivados del análisis de 
 
 - R >= 4.2
 - Paquetes indicados en el script principal
-- API key de AEMET configurada como variable de entorno:
+- API key de AEMET configurada como variable de entorno (hay que pedirla a través de: https://opendata.aemet.es/centrodedescargas/obtencionAPIKey. Tiene una validez de 5 días):
 
 ```r
 Sys.setenv(AEMET_API_KEY = "TU_API_KEY")
+```
+
+## Ejecución
+
+Se deja tanto el script final .R como el .RData para poder cargar todo el environment sin tener que ejecutar todo el script.
+
+```r
+source("TFM_canarias_pipeline_final.R")
+load(".RData")
+```
+
+
+
