@@ -1,0 +1,56 @@
+indicator_id,units,level,min_year,max_year,n_years,n_territories,coverage_class
+ods_7_2_1,Porcentaje,pais,2011,2024,14,1,core
+ods_7_2_1,Porcentaje,canarias,2010,2023,14,1,core
+ods_7_2_1,Porcentaje,isla,2010,2023,14,7,core
+ods_7_3_1,Toneladas equivalentes de petróleo por millón de euros,pais,2011,2023,13,1,core
+ods_7_3_1,Toneladas equivalentes de petróleo por millón de euros,canarias,2011,2022,12,1,core
+ods_13_1_1,Por 100.000 habitantes,pais,2010,2024,15,1,core
+ods_13_1_1,Por 100.000 habitantes,canarias,2010,2023,14,1,core
+ods_13_2_2_A,Kilogramos de CO2 equivalente,pais,2010,2022,13,1,core
+ods_13_2_2_A,Kilogramos de CO2 equivalente,canarias,2010,2021,12,1,core
+ods_13_2_2_B,Toneladas de CO2 equivalente,pais,2010,2022,13,1,core
+ods_13_2_2_B,Toneladas de CO2 equivalente,canarias,2010,2021,12,1,core
+ods_13_2_2_C,Porcentaje,pais,2010,2022,13,1,core
+ods_13_2_2_C,Porcentaje,canarias,2010,2021,12,1,core
+ods_13_2_2_D,Porcentaje,pais,2010,2022,13,1,core
+ods_13_2_2_D,Porcentaje,canarias,2010,2021,12,1,core
+ods_14_3_1,pH,pais,2010,2024,15,1,core
+ods_14_3_1,pH,canarias,2010,2024,15,1,core
+ods_15_1_1,Porcentaje,pais,2010,2022,13,1,core
+ods_15_1_1,Porcentaje,canarias,2010,2021,12,1,core
+ods_15_1_2_A,Porcentaje,pais,2015,2021,3,1,sparse
+ods_15_1_2_A,Porcentaje,canarias,2015,2021,3,1,sparse
+ods_15_1_2_B,Porcentaje,pais,2015,2021,3,1,sparse
+ods_15_1_2_B,Porcentaje,canarias,2015,2021,3,1,sparse
+ods_15_1_2_C,Porcentaje,pais,2015,2021,3,1,sparse
+ods_15_1_2_C,Porcentaje,canarias,2015,2021,3,1,sparse
+ods_15_1_2_D,Porcentaje,pais,2015,2021,3,1,sparse
+ods_15_1_2_D,Porcentaje,canarias,2015,2021,3,1,sparse
+ods_15_1_2_E,Porcentaje,pais,2015,2021,3,1,sparse
+ods_15_1_2_E,Porcentaje,canarias,2015,2021,3,1,sparse
+ods_15_1_2_F,Porcentaje,pais,2015,2021,3,1,sparse
+ods_15_1_2_F,Porcentaje,canarias,2015,2021,3,1,sparse
+ods_15_1_2_G,Porcentaje,pais,2015,2021,3,1,sparse
+ods_15_1_2_G,Porcentaje,canarias,2015,2021,3,1,sparse
+ods_15_2_1_A,Hectáreas,pais,2014,2023,10,1,core
+ods_15_2_1_A,Hectáreas,canarias,2014,2022,9,1,core
+ods_15_2_1_B,Porcentaje,pais,2014,2023,10,1,core
+ods_15_2_1_B,Porcentaje,canarias,2014,2023,10,1,core
+ods_15_4_1_A,Porcentaje,pais,2015,2021,3,1,sparse
+ods_15_4_1_A,Porcentaje,canarias,2015,2021,3,1,sparse
+ods_15_4_1_B,Porcentaje,pais,2015,2021,3,1,sparse
+ods_15_4_1_B,Porcentaje,canarias,2015,2021,3,1,sparse
+ods_15_4_1_C,Porcentaje,pais,2015,2021,3,1,sparse
+ods_15_4_1_C,Porcentaje,canarias,2015,2021,3,1,sparse
+ods_15_4_1_D,Porcentaje,pais,2015,2021,3,1,sparse
+ods_15_4_1_D,Porcentaje,canarias,2015,2021,3,1,sparse
+ods_15_4_1_E,Porcentaje,pais,2015,2021,3,1,sparse
+ods_15_4_1_E,Porcentaje,canarias,2015,2021,3,1,sparse
+ods_15_4_1_F,Porcentaje,pais,2015,2021,3,1,sparse
+ods_15_4_1_F,Porcentaje,canarias,2015,2021,3,1,sparse
+ods_15_4_1_G,Porcentaje,pais,2015,2021,3,1,sparse
+ods_15_4_1_G,Porcentaje,canarias,2015,2021,3,1,sparse
+ods_15_4_2,Porcentaje,pais,2015,2021,3,1,sparse
+ods_15_4_2,Porcentaje,canarias,2015,2021,3,1,sparse
+ods_15_8_1,"Lógica (1=Sí, 0=No)",pais,2013,2024,12,1,core
+ods_15_8_1,"Lógica (1=Sí, 0=No)",canarias,2013,2024,12,1,core

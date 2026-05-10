@@ -1,0 +1,10 @@
+model,.metric,.estimator,.estimate
+lm_regularized,mae,standard,0.3088409274922399
+random_forest,mae,standard,0.4873796858847881
+xgboost,mae,standard,0.654429380457825
+lm_regularized,rmse,standard,0.43825390584077906
+random_forest,rmse,standard,0.5601085909245636
+xgboost,rmse,standard,0.7688667356602031
+xgboost,rsq,standard,0.8165237461310887
+random_forest,rsq,standard,0.8848107260274012
+lm_regularized,rsq,standard,0.9066934611038884

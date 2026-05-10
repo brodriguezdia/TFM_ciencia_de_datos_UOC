@@ -1,0 +1,9 @@
+island,min_year,max_year,n_years,mean_n_stations,missing_tmed
+El Hierro,2015,2025,11,4.545454545454546,0
+Fuerteventura,2015,2025,11,5,0
+Gran Canaria,2015,2025,11,4.363636363636363,0
+La Gomera,2015,2025,11,4.818181818181818,0
+La Graciosa,2015,2025,11,1,0
+La Palma,2015,2025,11,4.909090909090909,0
+Lanzarote,2015,2025,11,5,0
+Tenerife,2015,2025,11,5,0
