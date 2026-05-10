@@ -10,11 +10,9 @@ Este repositorio contiene el código y los productos derivados del análisis de 
 
 - `TFM_canarias_pipeline_final.R`: script principal del pipeline.
 - `.RData`: R Data file que contiene todo el environment ejecutado
-- `data/`: datos brutos, procesados y metadatos.
-- `outputs/tables/`: tablas generadas.
-- `outputs/figures/`: figuras generadas.
-- `outputs/models/`: modelos entrenados, si procede.
-- `docs/`: documentación complementaria.
+- `Datos`: carpeta donde se encuentran los datos de los ODS
+- `datos_clima_canarias`: datos brutos, procesados y metadatos.
+- `tfm_outputs`: tablas, figuras y modelos generadas, si procede.
 
 ## Requisitos
 
