@@ -1,0 +1,489 @@
+year,territory_code,units,value,indicator_id,territory_name,level
+2011,ES,Porcentaje,31.02,ods_7_2_1,España,pais
+2012,ES,Porcentaje,30.14,ods_7_2_1,España,pais
+2013,ES,Porcentaje,40.16,ods_7_2_1,España,pais
+2014,ES,Porcentaje,40.48,ods_7_2_1,España,pais
+2015,ES,Porcentaje,35.18,ods_7_2_1,España,pais
+2016,ES,Porcentaje,38.61,ods_7_2_1,España,pais
+2017,ES,Porcentaje,32.26,ods_7_2_1,España,pais
+2018,ES,Porcentaje,38.45,ods_7_2_1,España,pais
+2019,ES,Porcentaje,37.54,ods_7_2_1,España,pais
+2020,ES,Porcentaje,44,ods_7_2_1,España,pais
+2021,ES,Porcentaje,46.71,ods_7_2_1,España,pais
+2022,ES,Porcentaje,42.22,ods_7_2_1,España,pais
+2023,ES,Porcentaje,50.34,ods_7_2_1,España,pais
+2024,ES,Porcentaje,56.82,ods_7_2_1,España,pais
+2010,ES70,Porcentaje,6.01,ods_7_2_1,Canarias,canarias
+2011,ES70,Porcentaje,6.73,ods_7_2_1,Canarias,canarias
+2012,ES70,Porcentaje,7.05,ods_7_2_1,Canarias,canarias
+2013,ES70,Porcentaje,7.65,ods_7_2_1,Canarias,canarias
+2014,ES70,Porcentaje,7.96,ods_7_2_1,Canarias,canarias
+2015,ES70,Porcentaje,7.96,ods_7_2_1,Canarias,canarias
+2016,ES70,Porcentaje,7.92,ods_7_2_1,Canarias,canarias
+2017,ES70,Porcentaje,7.83,ods_7_2_1,Canarias,canarias
+2018,ES70,Porcentaje,10.51,ods_7_2_1,Canarias,canarias
+2019,ES70,Porcentaje,16.37,ods_7_2_1,Canarias,canarias
+2020,ES70,Porcentaje,17.52,ods_7_2_1,Canarias,canarias
+2021,ES70,Porcentaje,20,ods_7_2_1,Canarias,canarias
+2022,ES70,Porcentaje,20.13,ods_7_2_1,Canarias,canarias
+2023,ES70,Porcentaje,19.5,ods_7_2_1,Canarias,canarias
+2010,ES703,Porcentaje,0.73,ods_7_2_1,El Hierro,isla
+2011,ES703,Porcentaje,0.8,ods_7_2_1,El Hierro,isla
+2012,ES703,Porcentaje,0.56,ods_7_2_1,El Hierro,isla
+2013,ES703,Porcentaje,0.58,ods_7_2_1,El Hierro,isla
+2014,ES703,Porcentaje,2.64,ods_7_2_1,El Hierro,isla
+2015,ES703,Porcentaje,20.11,ods_7_2_1,El Hierro,isla
+2016,ES703,Porcentaje,40.75,ods_7_2_1,El Hierro,isla
+2017,ES703,Porcentaje,46.65,ods_7_2_1,El Hierro,isla
+2018,ES703,Porcentaje,56.54,ods_7_2_1,El Hierro,isla
+2019,ES703,Porcentaje,54.37,ods_7_2_1,El Hierro,isla
+2020,ES703,Porcentaje,41.84,ods_7_2_1,El Hierro,isla
+2021,ES703,Porcentaje,48.28,ods_7_2_1,El Hierro,isla
+2022,ES703,Porcentaje,48.46,ods_7_2_1,El Hierro,isla
+2023,ES703,Porcentaje,34.89,ods_7_2_1,El Hierro,isla
+2010,ES704,Porcentaje,5.48,ods_7_2_1,Fuerteventura,isla
+2011,ES704,Porcentaje,5.86,ods_7_2_1,Fuerteventura,isla
+2012,ES704,Porcentaje,6.3,ods_7_2_1,Fuerteventura,isla
+2013,ES704,Porcentaje,6.93,ods_7_2_1,Fuerteventura,isla
+2014,ES704,Porcentaje,6.96,ods_7_2_1,Fuerteventura,isla
+2015,ES704,Porcentaje,6.13,ods_7_2_1,Fuerteventura,isla
+2016,ES704,Porcentaje,6.01,ods_7_2_1,Fuerteventura,isla
+2017,ES704,Porcentaje,5.28,ods_7_2_1,Fuerteventura,isla
+2018,ES704,Porcentaje,5.22,ods_7_2_1,Fuerteventura,isla
+2019,ES704,Porcentaje,11.73,ods_7_2_1,Fuerteventura,isla
+2020,ES704,Porcentaje,12.46,ods_7_2_1,Fuerteventura,isla
+2021,ES704,Porcentaje,18.33,ods_7_2_1,Fuerteventura,isla
+2022,ES704,Porcentaje,19.8,ods_7_2_1,Fuerteventura,isla
+2023,ES704,Porcentaje,18.38,ods_7_2_1,Fuerteventura,isla
+2010,ES705,Porcentaje,6.61,ods_7_2_1,Gran Canaria,isla
+2011,ES705,Porcentaje,7.22,ods_7_2_1,Gran Canaria,isla
+2012,ES705,Porcentaje,7.66,ods_7_2_1,Gran Canaria,isla
+2013,ES705,Porcentaje,8.21,ods_7_2_1,Gran Canaria,isla
+2014,ES705,Porcentaje,8.87,ods_7_2_1,Gran Canaria,isla
+2015,ES705,Porcentaje,9.01,ods_7_2_1,Gran Canaria,isla
+2016,ES705,Porcentaje,8.84,ods_7_2_1,Gran Canaria,isla
+2017,ES705,Porcentaje,8.55,ods_7_2_1,Gran Canaria,isla
+2018,ES705,Porcentaje,12.4,ods_7_2_1,Gran Canaria,isla
+2019,ES705,Porcentaje,15.98,ods_7_2_1,Gran Canaria,isla
+2020,ES705,Porcentaje,17.08,ods_7_2_1,Gran Canaria,isla
+2021,ES705,Porcentaje,21,ods_7_2_1,Gran Canaria,isla
+2022,ES705,Porcentaje,23.75,ods_7_2_1,Gran Canaria,isla
+2023,ES705,Porcentaje,23.02,ods_7_2_1,Gran Canaria,isla
+2010,ES706,Porcentaje,0.76,ods_7_2_1,La Gomera,isla
+2011,ES706,Porcentaje,0.84,ods_7_2_1,La Gomera,isla
+2012,ES706,Porcentaje,0.84,ods_7_2_1,La Gomera,isla
+2013,ES706,Porcentaje,0.88,ods_7_2_1,La Gomera,isla
+2014,ES706,Porcentaje,1.14,ods_7_2_1,La Gomera,isla
+2015,ES706,Porcentaje,1.1,ods_7_2_1,La Gomera,isla
+2016,ES706,Porcentaje,1.28,ods_7_2_1,La Gomera,isla
+2017,ES706,Porcentaje,0.7,ods_7_2_1,La Gomera,isla
+2018,ES706,Porcentaje,0.27,ods_7_2_1,La Gomera,isla
+2019,ES706,Porcentaje,0.21,ods_7_2_1,La Gomera,isla
+2020,ES706,Porcentaje,0.15,ods_7_2_1,La Gomera,isla
+2021,ES706,Porcentaje,0.18,ods_7_2_1,La Gomera,isla
+2022,ES706,Porcentaje,0.01,ods_7_2_1,La Gomera,isla
+2023,ES706,Porcentaje,7.19,ods_7_2_1,La Gomera,isla
+2010,ES707,Porcentaje,4.81,ods_7_2_1,La Palma,isla
+2011,ES707,Porcentaje,6.87,ods_7_2_1,La Palma,isla
+2012,ES707,Porcentaje,6.48,ods_7_2_1,La Palma,isla
+2013,ES707,Porcentaje,9.85,ods_7_2_1,La Palma,isla
+2014,ES707,Porcentaje,10.84,ods_7_2_1,La Palma,isla
+2015,ES707,Porcentaje,11.1,ods_7_2_1,La Palma,isla
+2016,ES707,Porcentaje,11.48,ods_7_2_1,La Palma,isla
+2017,ES707,Porcentaje,10.7,ods_7_2_1,La Palma,isla
+2018,ES707,Porcentaje,11.1,ods_7_2_1,La Palma,isla
+2019,ES707,Porcentaje,11.13,ods_7_2_1,La Palma,isla
+2020,ES707,Porcentaje,10.2,ods_7_2_1,La Palma,isla
+2021,ES707,Porcentaje,10.38,ods_7_2_1,La Palma,isla
+2022,ES707,Porcentaje,8.2,ods_7_2_1,La Palma,isla
+2023,ES707,Porcentaje,7.64,ods_7_2_1,La Palma,isla
+2010,ES708,Porcentaje,3.87,ods_7_2_1,Lanzarote,isla
+2011,ES708,Porcentaje,4.41,ods_7_2_1,Lanzarote,isla
+2012,ES708,Porcentaje,4.81,ods_7_2_1,Lanzarote,isla
+2013,ES708,Porcentaje,4.67,ods_7_2_1,Lanzarote,isla
+2014,ES708,Porcentaje,4.57,ods_7_2_1,Lanzarote,isla
+2015,ES708,Porcentaje,4.11,ods_7_2_1,Lanzarote,isla
+2016,ES708,Porcentaje,4.08,ods_7_2_1,Lanzarote,isla
+2017,ES708,Porcentaje,3.79,ods_7_2_1,Lanzarote,isla
+2018,ES708,Porcentaje,7.48,ods_7_2_1,Lanzarote,isla
+2019,ES708,Porcentaje,9.25,ods_7_2_1,Lanzarote,isla
+2020,ES708,Porcentaje,9.86,ods_7_2_1,Lanzarote,isla
+2021,ES708,Porcentaje,11.24,ods_7_2_1,Lanzarote,isla
+2022,ES708,Porcentaje,10.28,ods_7_2_1,Lanzarote,isla
+2023,ES708,Porcentaje,8.74,ods_7_2_1,Lanzarote,isla
+2010,ES709,Porcentaje,6.25,ods_7_2_1,Tenerife,isla
+2011,ES709,Porcentaje,7.11,ods_7_2_1,Tenerife,isla
+2012,ES709,Porcentaje,7.34,ods_7_2_1,Tenerife,isla
+2013,ES709,Porcentaje,7.99,ods_7_2_1,Tenerife,isla
+2014,ES709,Porcentaje,8.04,ods_7_2_1,Tenerife,isla
+2015,ES709,Porcentaje,7.95,ods_7_2_1,Tenerife,isla
+2016,ES709,Porcentaje,7.77,ods_7_2_1,Tenerife,isla
+2017,ES709,Porcentaje,8.08,ods_7_2_1,Tenerife,isla
+2018,ES709,Porcentaje,10.08,ods_7_2_1,Tenerife,isla
+2019,ES709,Porcentaje,19.63,ods_7_2_1,Tenerife,isla
+2020,ES709,Porcentaje,21.08,ods_7_2_1,Tenerife,isla
+2021,ES709,Porcentaje,21.88,ods_7_2_1,Tenerife,isla
+2022,ES709,Porcentaje,19.89,ods_7_2_1,Tenerife,isla
+2023,ES709,Porcentaje,19.68,ods_7_2_1,Tenerife,isla
+2011,ES,Toneladas equivalentes de petróleo por millón de euros,21.7,ods_7_3_1,España,pais
+2012,ES,Toneladas equivalentes de petróleo por millón de euros,22.1,ods_7_3_1,España,pais
+2013,ES,Toneladas equivalentes de petróleo por millón de euros,21.89,ods_7_3_1,España,pais
+2014,ES,Toneladas equivalentes de petróleo por millón de euros,21.35,ods_7_3_1,España,pais
+2015,ES,Toneladas equivalentes de petróleo por millón de euros,20.96,ods_7_3_1,España,pais
+2016,ES,Toneladas equivalentes de petróleo por millón de euros,20.49,ods_7_3_1,España,pais
+2017,ES,Toneladas equivalentes de petróleo por millón de euros,20.14,ods_7_3_1,España,pais
+2018,ES,Toneladas equivalentes de petróleo por millón de euros,19.76,ods_7_3_1,España,pais
+2019,ES,Toneladas equivalentes de petróleo por millón de euros,19.07,ods_7_3_1,España,pais
+2020,ES,Toneladas equivalentes de petróleo por millón de euros,20.29,ods_7_3_1,España,pais
+2021,ES,Toneladas equivalentes de petróleo por millón de euros,19.56,ods_7_3_1,España,pais
+2022,ES,Toneladas equivalentes de petróleo por millón de euros,18.06,ods_7_3_1,España,pais
+2023,ES,Toneladas equivalentes de petróleo por millón de euros,16.15,ods_7_3_1,España,pais
+2011,ES70,Toneladas equivalentes de petróleo por millón de euros,18.75,ods_7_3_1,Canarias,canarias
+2012,ES70,Toneladas equivalentes de petróleo por millón de euros,19.31,ods_7_3_1,Canarias,canarias
+2013,ES70,Toneladas equivalentes de petróleo por millón de euros,18.87,ods_7_3_1,Canarias,canarias
+2014,ES70,Toneladas equivalentes de petróleo por millón de euros,18.61,ods_7_3_1,Canarias,canarias
+2015,ES70,Toneladas equivalentes de petróleo por millón de euros,18.29,ods_7_3_1,Canarias,canarias
+2016,ES70,Toneladas equivalentes de petróleo por millón de euros,18.03,ods_7_3_1,Canarias,canarias
+2017,ES70,Toneladas equivalentes de petróleo por millón de euros,17.74,ods_7_3_1,Canarias,canarias
+2018,ES70,Toneladas equivalentes de petróleo por millón de euros,17.19,ods_7_3_1,Canarias,canarias
+2019,ES70,Toneladas equivalentes de petróleo por millón de euros,16.96,ods_7_3_1,Canarias,canarias
+2020,ES70,Toneladas equivalentes de petróleo por millón de euros,18.75,ods_7_3_1,Canarias,canarias
+2021,ES70,Toneladas equivalentes de petróleo por millón de euros,17.55,ods_7_3_1,Canarias,canarias
+2022,ES70,Toneladas equivalentes de petróleo por millón de euros,16.92,ods_7_3_1,Canarias,canarias
+2010,ES,Por 100.000 habitantes,0.15,ods_13_1_1,España,pais
+2011,ES,Por 100.000 habitantes,0.11,ods_13_1_1,España,pais
+2012,ES,Por 100.000 habitantes,0.12,ods_13_1_1,España,pais
+2013,ES,Por 100.000 habitantes,0.1,ods_13_1_1,España,pais
+2014,ES,Por 100.000 habitantes,0.06,ods_13_1_1,España,pais
+2015,ES,Por 100.000 habitantes,0.17,ods_13_1_1,España,pais
+2016,ES,Por 100.000 habitantes,0.12,ods_13_1_1,España,pais
+2017,ES,Por 100.000 habitantes,0.12,ods_13_1_1,España,pais
+2018,ES,Por 100.000 habitantes,0.22,ods_13_1_1,España,pais
+2019,ES,Por 100.000 habitantes,0.16,ods_13_1_1,España,pais
+2020,ES,Por 100.000 habitantes,0.12,ods_13_1_1,España,pais
+2021,ES,Por 100.000 habitantes,0.13,ods_13_1_1,España,pais
+2022,ES,Por 100.000 habitantes,0.32,ods_13_1_1,España,pais
+2023,ES,Por 100.000 habitantes,0.22,ods_13_1_1,España,pais
+2024,ES,Por 100.000 habitantes,0.7,ods_13_1_1,España,pais
+2010,ES70,Por 100.000 habitantes,0.05,ods_13_1_1,Canarias,canarias
+2011,ES70,Por 100.000 habitantes,0.05,ods_13_1_1,Canarias,canarias
+2012,ES70,Por 100.000 habitantes,0,ods_13_1_1,Canarias,canarias
+2013,ES70,Por 100.000 habitantes,0.09,ods_13_1_1,Canarias,canarias
+2014,ES70,Por 100.000 habitantes,0.05,ods_13_1_1,Canarias,canarias
+2015,ES70,Por 100.000 habitantes,0.05,ods_13_1_1,Canarias,canarias
+2016,ES70,Por 100.000 habitantes,0.05,ods_13_1_1,Canarias,canarias
+2017,ES70,Por 100.000 habitantes,0.05,ods_13_1_1,Canarias,canarias
+2018,ES70,Por 100.000 habitantes,0,ods_13_1_1,Canarias,canarias
+2019,ES70,Por 100.000 habitantes,0.09,ods_13_1_1,Canarias,canarias
+2020,ES70,Por 100.000 habitantes,0.09,ods_13_1_1,Canarias,canarias
+2021,ES70,Por 100.000 habitantes,0.22,ods_13_1_1,Canarias,canarias
+2022,ES70,Por 100.000 habitantes,0.18,ods_13_1_1,Canarias,canarias
+2023,ES70,Por 100.000 habitantes,0.36,ods_13_1_1,Canarias,canarias
+2010,ES,Kilogramos de CO2 equivalente,0.29,ods_13_2_2_A,España,pais
+2011,ES,Kilogramos de CO2 equivalente,0.29,ods_13_2_2_A,España,pais
+2012,ES,Kilogramos de CO2 equivalente,0.3,ods_13_2_2_A,España,pais
+2013,ES,Kilogramos de CO2 equivalente,0.27,ods_13_2_2_A,España,pais
+2014,ES,Kilogramos de CO2 equivalente,0.27,ods_13_2_2_A,España,pais
+2015,ES,Kilogramos de CO2 equivalente,0.27,ods_13_2_2_A,España,pais
+2016,ES,Kilogramos de CO2 equivalente,0.25,ods_13_2_2_A,España,pais
+2017,ES,Kilogramos de CO2 equivalente,0.25,ods_13_2_2_A,España,pais
+2018,ES,Kilogramos de CO2 equivalente,0.24,ods_13_2_2_A,España,pais
+2019,ES,Kilogramos de CO2 equivalente,0.22,ods_13_2_2_A,España,pais
+2020,ES,Kilogramos de CO2 equivalente,0.22,ods_13_2_2_A,España,pais
+2021,ES,Kilogramos de CO2 equivalente,0.22,ods_13_2_2_A,España,pais
+2022,ES,Kilogramos de CO2 equivalente,0.19,ods_13_2_2_A,España,pais
+2010,ES70,Kilogramos de CO2 equivalente,0.39,ods_13_2_2_A,Canarias,canarias
+2011,ES70,Kilogramos de CO2 equivalente,0.36,ods_13_2_2_A,Canarias,canarias
+2012,ES70,Kilogramos de CO2 equivalente,0.37,ods_13_2_2_A,Canarias,canarias
+2013,ES70,Kilogramos de CO2 equivalente,0.35,ods_13_2_2_A,Canarias,canarias
+2014,ES70,Kilogramos de CO2 equivalente,0.34,ods_13_2_2_A,Canarias,canarias
+2015,ES70,Kilogramos de CO2 equivalente,0.32,ods_13_2_2_A,Canarias,canarias
+2016,ES70,Kilogramos de CO2 equivalente,0.32,ods_13_2_2_A,Canarias,canarias
+2017,ES70,Kilogramos de CO2 equivalente,0.32,ods_13_2_2_A,Canarias,canarias
+2018,ES70,Kilogramos de CO2 equivalente,0.31,ods_13_2_2_A,Canarias,canarias
+2019,ES70,Kilogramos de CO2 equivalente,0.3,ods_13_2_2_A,Canarias,canarias
+2020,ES70,Kilogramos de CO2 equivalente,0.31,ods_13_2_2_A,Canarias,canarias
+2021,ES70,Kilogramos de CO2 equivalente,0.31,ods_13_2_2_A,Canarias,canarias
+2010,ES,Toneladas de CO2 equivalente,6.67,ods_13_2_2_B,España,pais
+2011,ES,Toneladas de CO2 equivalente,6.66,ods_13_2_2_B,España,pais
+2012,ES,Toneladas de CO2 equivalente,6.56,ods_13_2_2_B,España,pais
+2013,ES,Toneladas de CO2 equivalente,6.02,ods_13_2_2_B,España,pais
+2014,ES,Toneladas de CO2 equivalente,6.03,ods_13_2_2_B,España,pais
+2015,ES,Toneladas de CO2 equivalente,6.23,ods_13_2_2_B,España,pais
+2016,ES,Toneladas de CO2 equivalente,5.96,ods_13_2_2_B,España,pais
+2017,ES,Toneladas de CO2 equivalente,6.22,ods_13_2_2_B,España,pais
+2018,ES,Toneladas de CO2 equivalente,6.05,ods_13_2_2_B,España,pais
+2019,ES,Toneladas de CO2 equivalente,5.62,ods_13_2_2_B,España,pais
+2020,ES,Toneladas de CO2 equivalente,4.82,ods_13_2_2_B,España,pais
+2021,ES,Toneladas de CO2 equivalente,5.16,ods_13_2_2_B,España,pais
+2022,ES,Toneladas de CO2 equivalente,5.16,ods_13_2_2_B,España,pais
+2010,ES70,Toneladas de CO2 equivalente,7.71,ods_13_2_2_B,Canarias,canarias
+2011,ES70,Toneladas de CO2 equivalente,7.03,ods_13_2_2_B,Canarias,canarias
+2012,ES70,Toneladas de CO2 equivalente,7.06,ods_13_2_2_B,Canarias,canarias
+2013,ES70,Toneladas de CO2 equivalente,6.52,ods_13_2_2_B,Canarias,canarias
+2014,ES70,Toneladas de CO2 equivalente,6.35,ods_13_2_2_B,Canarias,canarias
+2015,ES70,Toneladas de CO2 equivalente,6.23,ods_13_2_2_B,Canarias,canarias
+2016,ES70,Toneladas de CO2 equivalente,6.42,ods_13_2_2_B,Canarias,canarias
+2017,ES70,Toneladas de CO2 equivalente,6.53,ods_13_2_2_B,Canarias,canarias
+2018,ES70,Toneladas de CO2 equivalente,6.36,ods_13_2_2_B,Canarias,canarias
+2019,ES70,Toneladas de CO2 equivalente,6.23,ods_13_2_2_B,Canarias,canarias
+2020,ES70,Toneladas de CO2 equivalente,5.2,ods_13_2_2_B,Canarias,canarias
+2021,ES70,Toneladas de CO2 equivalente,5.66,ods_13_2_2_B,Canarias,canarias
+2010,ES,Porcentaje,22.34,ods_13_2_2_C,España,pais
+2011,ES,Porcentaje,22.56,ods_13_2_2_C,España,pais
+2012,ES,Porcentaje,20.74,ods_13_2_2_C,España,pais
+2013,ES,Porcentaje,10.39,ods_13_2_2_C,España,pais
+2014,ES,Porcentaje,10.24,ods_13_2_2_C,España,pais
+2015,ES,Porcentaje,13.89,ods_13_2_2_C,España,pais
+2016,ES,Porcentaje,9.08,ods_13_2_2_C,España,pais
+2017,ES,Porcentaje,14.02,ods_13_2_2_C,España,pais
+2018,ES,Porcentaje,11.41,ods_13_2_2_C,España,pais
+2019,ES,Porcentaje,4.24,ods_13_2_2_C,España,pais
+2020,ES,Porcentaje,-10.11,ods_13_2_2_C,España,pais
+2021,ES,Porcentaje,-3.74,ods_13_2_2_C,España,pais
+2022,ES,Porcentaje,-2.61,ods_13_2_2_C,España,pais
+2010,ES70,Porcentaje,91.54,ods_13_2_2_C,Canarias,canarias
+2011,ES70,Porcentaje,76.47,ods_13_2_2_C,Canarias,canarias
+2012,ES70,Porcentaje,78.36,ods_13_2_2_C,Canarias,canarias
+2013,ES70,Porcentaje,65.34,ods_13_2_2_C,Canarias,canarias
+2014,ES70,Porcentaje,61.28,ods_13_2_2_C,Canarias,canarias
+2015,ES70,Porcentaje,58.43,ods_13_2_2_C,Canarias,canarias
+2016,ES70,Porcentaje,63.81,ods_13_2_2_C,Canarias,canarias
+2017,ES70,Porcentaje,67.61,ods_13_2_2_C,Canarias,canarias
+2018,ES70,Porcentaje,64.74,ods_13_2_2_C,Canarias,canarias
+2019,ES70,Porcentaje,63.25,ods_13_2_2_C,Canarias,canarias
+2020,ES70,Porcentaje,37.32,ods_13_2_2_C,Canarias,canarias
+2021,ES70,Porcentaje,49.12,ods_13_2_2_C,Canarias,canarias
+2010,ES,Porcentaje,-21.27,ods_13_2_2_D,España,pais
+2011,ES,Porcentaje,-21.12,ods_13_2_2_D,España,pais
+2012,ES,Porcentaje,-22.29,ods_13_2_2_D,España,pais
+2013,ES,Porcentaje,-28.95,ods_13_2_2_D,España,pais
+2014,ES,Porcentaje,-29.05,ods_13_2_2_D,España,pais
+2015,ES,Porcentaje,-26.7,ods_13_2_2_D,España,pais
+2016,ES,Porcentaje,-29.8,ods_13_2_2_D,España,pais
+2017,ES,Porcentaje,-26.62,ods_13_2_2_D,España,pais
+2018,ES,Porcentaje,-28.3,ods_13_2_2_D,España,pais
+2019,ES,Porcentaje,-32.91,ods_13_2_2_D,España,pais
+2020,ES,Porcentaje,-42.15,ods_13_2_2_D,España,pais
+2021,ES,Porcentaje,-38.05,ods_13_2_2_D,España,pais
+2022,ES,Porcentaje,-37,ods_13_2_2_D,España,pais
+2010,ES70,Porcentaje,-18.51,ods_13_2_2_D,Canarias,canarias
+2011,ES70,Porcentaje,-24.93,ods_13_2_2_D,Canarias,canarias
+2012,ES70,Porcentaje,-24.12,ods_13_2_2_D,Canarias,canarias
+2013,ES70,Porcentaje,-29.66,ods_13_2_2_D,Canarias,canarias
+2014,ES70,Porcentaje,-31.39,ods_13_2_2_D,Canarias,canarias
+2015,ES70,Porcentaje,-32.6,ods_13_2_2_D,Canarias,canarias
+2016,ES70,Porcentaje,-30.31,ods_13_2_2_D,Canarias,canarias
+2017,ES70,Porcentaje,-28.7,ods_13_2_2_D,Canarias,canarias
+2018,ES70,Porcentaje,-29.92,ods_13_2_2_D,Canarias,canarias
+2019,ES70,Porcentaje,-30.55,ods_13_2_2_D,Canarias,canarias
+2020,ES70,Porcentaje,-41.58,ods_13_2_2_D,Canarias,canarias
+2021,ES70,Porcentaje,-36.56,ods_13_2_2_D,Canarias,canarias
+2010,ES,pH,8.083,ods_14_3_1,España,pais
+2011,ES,pH,8.081,ods_14_3_1,España,pais
+2012,ES,pH,8.08,ods_14_3_1,España,pais
+2013,ES,pH,8.078,ods_14_3_1,España,pais
+2014,ES,pH,8.074,ods_14_3_1,España,pais
+2015,ES,pH,8.072,ods_14_3_1,España,pais
+2016,ES,pH,8.07,ods_14_3_1,España,pais
+2017,ES,pH,8.066,ods_14_3_1,España,pais
+2018,ES,pH,8.066,ods_14_3_1,España,pais
+2019,ES,pH,8.064,ods_14_3_1,España,pais
+2020,ES,pH,8.059,ods_14_3_1,España,pais
+2021,ES,pH,8.059,ods_14_3_1,España,pais
+2022,ES,pH,8.056,ods_14_3_1,España,pais
+2023,ES,pH,8.051,ods_14_3_1,España,pais
+2024,ES,pH,8.052,ods_14_3_1,España,pais
+2010,ES70,pH,8.079,ods_14_3_1,Canarias,canarias
+2011,ES70,pH,8.078,ods_14_3_1,Canarias,canarias
+2012,ES70,pH,8.076,ods_14_3_1,Canarias,canarias
+2013,ES70,pH,8.075,ods_14_3_1,Canarias,canarias
+2014,ES70,pH,8.072,ods_14_3_1,Canarias,canarias
+2015,ES70,pH,8.069,ods_14_3_1,Canarias,canarias
+2016,ES70,pH,8.068,ods_14_3_1,Canarias,canarias
+2017,ES70,pH,8.063,ods_14_3_1,Canarias,canarias
+2018,ES70,pH,8.065,ods_14_3_1,Canarias,canarias
+2019,ES70,pH,8.062,ods_14_3_1,Canarias,canarias
+2020,ES70,pH,8.057,ods_14_3_1,Canarias,canarias
+2021,ES70,pH,8.057,ods_14_3_1,Canarias,canarias
+2022,ES70,pH,8.055,ods_14_3_1,Canarias,canarias
+2023,ES70,pH,8.048,ods_14_3_1,Canarias,canarias
+2024,ES70,pH,8.051,ods_14_3_1,Canarias,canarias
+2010,ES,Porcentaje,36.32,ods_15_1_1,España,pais
+2011,ES,Porcentaje,36.31,ods_15_1_1,España,pais
+2012,ES,Porcentaje,36.35,ods_15_1_1,España,pais
+2013,ES,Porcentaje,36.35,ods_15_1_1,España,pais
+2014,ES,Porcentaje,36.35,ods_15_1_1,España,pais
+2015,ES,Porcentaje,36.36,ods_15_1_1,España,pais
+2016,ES,Porcentaje,36.32,ods_15_1_1,España,pais
+2017,ES,Porcentaje,36.49,ods_15_1_1,España,pais
+2018,ES,Porcentaje,36.5,ods_15_1_1,España,pais
+2019,ES,Porcentaje,36.5,ods_15_1_1,España,pais
+2020,ES,Porcentaje,36.81,ods_15_1_1,España,pais
+2021,ES,Porcentaje,38.02,ods_15_1_1,España,pais
+2022,ES,Porcentaje,38.02,ods_15_1_1,España,pais
+2010,ES70,Porcentaje,17.74,ods_15_1_1,Canarias,canarias
+2011,ES70,Porcentaje,17.75,ods_15_1_1,Canarias,canarias
+2012,ES70,Porcentaje,17.74,ods_15_1_1,Canarias,canarias
+2013,ES70,Porcentaje,17.74,ods_15_1_1,Canarias,canarias
+2014,ES70,Porcentaje,17.75,ods_15_1_1,Canarias,canarias
+2015,ES70,Porcentaje,17.75,ods_15_1_1,Canarias,canarias
+2016,ES70,Porcentaje,17.75,ods_15_1_1,Canarias,canarias
+2017,ES70,Porcentaje,17.75,ods_15_1_1,Canarias,canarias
+2018,ES70,Porcentaje,18.39,ods_15_1_1,Canarias,canarias
+2019,ES70,Porcentaje,18.39,ods_15_1_1,Canarias,canarias
+2020,ES70,Porcentaje,18.39,ods_15_1_1,Canarias,canarias
+2021,ES70,Porcentaje,18.46,ods_15_1_1,Canarias,canarias
+2015,ES,Porcentaje,27.96,ods_15_1_2_A,España,pais
+2018,ES,Porcentaje,28.02,ods_15_1_2_A,España,pais
+2021,ES,Porcentaje,28.05,ods_15_1_2_A,España,pais
+2015,ES70,Porcentaje,49.35,ods_15_1_2_A,Canarias,canarias
+2018,ES70,Porcentaje,49.31,ods_15_1_2_A,Canarias,canarias
+2021,ES70,Porcentaje,49.31,ods_15_1_2_A,Canarias,canarias
+2015,ES,Porcentaje,11.93,ods_15_1_2_B,España,pais
+2018,ES,Porcentaje,11.98,ods_15_1_2_B,España,pais
+2021,ES,Porcentaje,11.98,ods_15_1_2_B,España,pais
+2015,ES70,Porcentaje,14.57,ods_15_1_2_B,Canarias,canarias
+2018,ES70,Porcentaje,14.52,ods_15_1_2_B,Canarias,canarias
+2021,ES70,Porcentaje,14.52,ods_15_1_2_B,Canarias,canarias
+2015,ES,Porcentaje,40.1,ods_15_1_2_C,España,pais
+2018,ES,Porcentaje,39.82,ods_15_1_2_C,España,pais
+2021,ES,Porcentaje,39.88,ods_15_1_2_C,España,pais
+2015,ES70,Porcentaje,82.29,ods_15_1_2_C,Canarias,canarias
+2018,ES70,Porcentaje,82.26,ods_15_1_2_C,Canarias,canarias
+2021,ES70,Porcentaje,82.26,ods_15_1_2_C,Canarias,canarias
+2015,ES,Porcentaje,37.3,ods_15_1_2_D,España,pais
+2018,ES,Porcentaje,37.24,ods_15_1_2_D,España,pais
+2021,ES,Porcentaje,37.3,ods_15_1_2_D,España,pais
+2015,ES70,Porcentaje,49.78,ods_15_1_2_D,Canarias,canarias
+2018,ES70,Porcentaje,49.97,ods_15_1_2_D,Canarias,canarias
+2021,ES70,Porcentaje,49.97,ods_15_1_2_D,Canarias,canarias
+2015,ES,Porcentaje,74.17,ods_15_1_2_E,España,pais
+2018,ES,Porcentaje,73.22,ods_15_1_2_E,España,pais
+2021,ES,Porcentaje,73.2,ods_15_1_2_E,España,pais
+2015,ES70,Porcentaje,63.79,ods_15_1_2_E,Canarias,canarias
+2018,ES70,Porcentaje,63.57,ods_15_1_2_E,Canarias,canarias
+2021,ES70,Porcentaje,63.57,ods_15_1_2_E,Canarias,canarias
+2015,ES,Porcentaje,6.27,ods_15_1_2_F,España,pais
+2018,ES,Porcentaje,6.79,ods_15_1_2_F,España,pais
+2021,ES,Porcentaje,6.64,ods_15_1_2_F,España,pais
+2015,ES70,Porcentaje,4.51,ods_15_1_2_F,Canarias,canarias
+2018,ES70,Porcentaje,4.49,ods_15_1_2_F,Canarias,canarias
+2021,ES70,Porcentaje,4.49,ods_15_1_2_F,Canarias,canarias
+2015,ES,Porcentaje,58.92,ods_15_1_2_G,España,pais
+2018,ES,Porcentaje,57.51,ods_15_1_2_G,España,pais
+2021,ES,Porcentaje,57.66,ods_15_1_2_G,España,pais
+2015,ES70,Porcentaje,45.18,ods_15_1_2_G,Canarias,canarias
+2018,ES70,Porcentaje,45.59,ods_15_1_2_G,Canarias,canarias
+2021,ES70,Porcentaje,45.59,ods_15_1_2_G,Canarias,canarias
+2014,ES,Hectáreas,4400309.38,ods_15_2_1_A,España,pais
+2015,ES,Hectáreas,4611684.49,ods_15_2_1_A,España,pais
+2016,ES,Hectáreas,4804161.96,ods_15_2_1_A,España,pais
+2017,ES,Hectáreas,5124970.35,ods_15_2_1_A,España,pais
+2018,ES,Hectáreas,5167697.4,ods_15_2_1_A,España,pais
+2019,ES,Hectáreas,5527015.72,ods_15_2_1_A,España,pais
+2020,ES,Hectáreas,5713414.12,ods_15_2_1_A,España,pais
+2021,ES,Hectáreas,6108383.93,ods_15_2_1_A,España,pais
+2022,ES,Hectáreas,6701415,ods_15_2_1_A,España,pais
+2023,ES,Hectáreas,6741600,ods_15_2_1_A,España,pais
+2014,ES70,Hectáreas,0,ods_15_2_1_A,Canarias,canarias
+2015,ES70,Hectáreas,0,ods_15_2_1_A,Canarias,canarias
+2016,ES70,Hectáreas,0,ods_15_2_1_A,Canarias,canarias
+2017,ES70,Hectáreas,0,ods_15_2_1_A,Canarias,canarias
+2018,ES70,Hectáreas,0,ods_15_2_1_A,Canarias,canarias
+2019,ES70,Hectáreas,0,ods_15_2_1_A,Canarias,canarias
+2020,ES70,Hectáreas,4888.85,ods_15_2_1_A,Canarias,canarias
+2021,ES70,Hectáreas,4888.85,ods_15_2_1_A,Canarias,canarias
+2022,ES70,Hectáreas,8829,ods_15_2_1_A,Canarias,canarias
+2014,ES,Porcentaje,15.86,ods_15_2_1_B,España,pais
+2015,ES,Porcentaje,16.58,ods_15_2_1_B,España,pais
+2016,ES,Porcentaje,17.28,ods_15_2_1_B,España,pais
+2017,ES,Porcentaje,18.33,ods_15_2_1_B,España,pais
+2018,ES,Porcentaje,18.48,ods_15_2_1_B,España,pais
+2019,ES,Porcentaje,19.76,ods_15_2_1_B,España,pais
+2020,ES,Porcentaje,20.34,ods_15_2_1_B,España,pais
+2021,ES,Porcentaje,22.2,ods_15_2_1_B,España,pais
+2022,ES,Porcentaje,23.48,ods_15_2_1_B,España,pais
+2023,ES,Porcentaje,23.62,ods_15_2_1_B,España,pais
+2014,ES70,Porcentaje,0,ods_15_2_1_B,Canarias,canarias
+2015,ES70,Porcentaje,0,ods_15_2_1_B,Canarias,canarias
+2016,ES70,Porcentaje,0,ods_15_2_1_B,Canarias,canarias
+2017,ES70,Porcentaje,0,ods_15_2_1_B,Canarias,canarias
+2018,ES70,Porcentaje,0,ods_15_2_1_B,Canarias,canarias
+2019,ES70,Porcentaje,0,ods_15_2_1_B,Canarias,canarias
+2020,ES70,Porcentaje,0.85,ods_15_2_1_B,Canarias,canarias
+2021,ES70,Porcentaje,0.85,ods_15_2_1_B,Canarias,canarias
+2022,ES70,Porcentaje,1.53,ods_15_2_1_B,Canarias,canarias
+2023,ES70,Porcentaje,1.53,ods_15_2_1_B,Canarias,canarias
+2015,ES,Porcentaje,36.48,ods_15_4_1_A,España,pais
+2018,ES,Porcentaje,36.56,ods_15_4_1_A,España,pais
+2021,ES,Porcentaje,36.56,ods_15_4_1_A,España,pais
+2015,ES70,Porcentaje,61.01,ods_15_4_1_A,Canarias,canarias
+2018,ES70,Porcentaje,61.01,ods_15_4_1_A,Canarias,canarias
+2021,ES70,Porcentaje,61.01,ods_15_4_1_A,Canarias,canarias
+2015,ES,Porcentaje,12.67,ods_15_4_1_B,España,pais
+2018,ES,Porcentaje,12.47,ods_15_4_1_B,España,pais
+2021,ES,Porcentaje,12.42,ods_15_4_1_B,España,pais
+2015,ES70,Porcentaje,17.83,ods_15_4_1_B,Canarias,canarias
+2018,ES70,Porcentaje,17.85,ods_15_4_1_B,Canarias,canarias
+2021,ES70,Porcentaje,17.85,ods_15_4_1_B,Canarias,canarias
+2015,ES,Porcentaje,46.39,ods_15_4_1_C,España,pais
+2018,ES,Porcentaje,46.18,ods_15_4_1_C,España,pais
+2021,ES,Porcentaje,46.21,ods_15_4_1_C,España,pais
+2015,ES70,Porcentaje,82.51,ods_15_4_1_C,Canarias,canarias
+2018,ES70,Porcentaje,82.48,ods_15_4_1_C,Canarias,canarias
+2021,ES70,Porcentaje,82.48,ods_15_4_1_C,Canarias,canarias
+2015,ES,Porcentaje,41.7,ods_15_4_1_D,España,pais
+2018,ES,Porcentaje,41.86,ods_15_4_1_D,España,pais
+2021,ES,Porcentaje,41.9,ods_15_4_1_D,España,pais
+2015,ES70,Porcentaje,59.08,ods_15_4_1_D,Canarias,canarias
+2018,ES70,Porcentaje,59.17,ods_15_4_1_D,Canarias,canarias
+2021,ES70,Porcentaje,59.17,ods_15_4_1_D,Canarias,canarias
+2015,ES,Porcentaje,82.51,ods_15_4_1_E,España,pais
+2018,ES,Porcentaje,81.65,ods_15_4_1_E,España,pais
+2021,ES,Porcentaje,81.64,ods_15_4_1_E,España,pais
+2015,ES70,Porcentaje,77.07,ods_15_4_1_E,Canarias,canarias
+2018,ES70,Porcentaje,77.06,ods_15_4_1_E,Canarias,canarias
+2021,ES70,Porcentaje,77.06,ods_15_4_1_E,Canarias,canarias
+2015,ES,Porcentaje,10.3,ods_15_4_1_F,España,pais
+2018,ES,Porcentaje,11.23,ods_15_4_1_F,España,pais
+2021,ES,Porcentaje,11.06,ods_15_4_1_F,España,pais
+2015,ES70,Porcentaje,7.44,ods_15_4_1_F,Canarias,canarias
+2018,ES70,Porcentaje,7.49,ods_15_4_1_F,Canarias,canarias
+2021,ES70,Porcentaje,7.49,ods_15_4_1_F,Canarias,canarias
+2015,ES,Porcentaje,48.49,ods_15_4_1_G,España,pais
+2018,ES,Porcentaje,46.85,ods_15_4_1_G,España,pais
+2021,ES,Porcentaje,46.85,ods_15_4_1_G,España,pais
+2015,ES70,Porcentaje,63.13,ods_15_4_1_G,Canarias,canarias
+2018,ES70,Porcentaje,63.93,ods_15_4_1_G,Canarias,canarias
+2021,ES70,Porcentaje,63.93,ods_15_4_1_G,Canarias,canarias
+2015,ES,Porcentaje,97.17,ods_15_4_2,España,pais
+2018,ES,Porcentaje,96.89,ods_15_4_2,España,pais
+2021,ES,Porcentaje,96.62,ods_15_4_2,España,pais
+2015,ES70,Porcentaje,88.73,ods_15_4_2,Canarias,canarias
+2018,ES70,Porcentaje,88.74,ods_15_4_2,Canarias,canarias
+2021,ES70,Porcentaje,88.55,ods_15_4_2,Canarias,canarias
+2013,ES,"Lógica (1=Sí, 0=No)",1,ods_15_8_1,España,pais
+2014,ES,"Lógica (1=Sí, 0=No)",1,ods_15_8_1,España,pais
+2015,ES,"Lógica (1=Sí, 0=No)",1,ods_15_8_1,España,pais
+2016,ES,"Lógica (1=Sí, 0=No)",1,ods_15_8_1,España,pais
+2017,ES,"Lógica (1=Sí, 0=No)",1,ods_15_8_1,España,pais
+2018,ES,"Lógica (1=Sí, 0=No)",1,ods_15_8_1,España,pais
+2019,ES,"Lógica (1=Sí, 0=No)",1,ods_15_8_1,España,pais
+2020,ES,"Lógica (1=Sí, 0=No)",1,ods_15_8_1,España,pais
+2021,ES,"Lógica (1=Sí, 0=No)",1,ods_15_8_1,España,pais
+2022,ES,"Lógica (1=Sí, 0=No)",1,ods_15_8_1,España,pais
+2023,ES,"Lógica (1=Sí, 0=No)",1,ods_15_8_1,España,pais
+2024,ES,"Lógica (1=Sí, 0=No)",1,ods_15_8_1,España,pais
+2013,ES70,"Lógica (1=Sí, 0=No)",1,ods_15_8_1,Canarias,canarias
+2014,ES70,"Lógica (1=Sí, 0=No)",1,ods_15_8_1,Canarias,canarias
+2015,ES70,"Lógica (1=Sí, 0=No)",1,ods_15_8_1,Canarias,canarias
+2016,ES70,"Lógica (1=Sí, 0=No)",1,ods_15_8_1,Canarias,canarias
+2017,ES70,"Lógica (1=Sí, 0=No)",1,ods_15_8_1,Canarias,canarias
+2018,ES70,"Lógica (1=Sí, 0=No)",1,ods_15_8_1,Canarias,canarias
+2019,ES70,"Lógica (1=Sí, 0=No)",1,ods_15_8_1,Canarias,canarias
+2020,ES70,"Lógica (1=Sí, 0=No)",1,ods_15_8_1,Canarias,canarias
+2021,ES70,"Lógica (1=Sí, 0=No)",1,ods_15_8_1,Canarias,canarias
+2022,ES70,"Lógica (1=Sí, 0=No)",1,ods_15_8_1,Canarias,canarias
+2023,ES70,"Lógica (1=Sí, 0=No)",1,ods_15_8_1,Canarias,canarias
+2024,ES70,"Lógica (1=Sí, 0=No)",1,ods_15_8_1,Canarias,canarias
