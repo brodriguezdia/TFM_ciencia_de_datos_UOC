@@ -1,2 +1,25 @@
-# TFM_ciencia_de_datos_UOC
-Repositorio que contiene el código fuente empleado en el trabajo fin de máster del alumno Benjamín Rodríguez Díaz 
+# Modelización predictiva de la evolución térmica y su relación con indicadores ODS ambientales en Canarias
+
+Repositorio asociado al Trabajo Final de Máster en Ciencia de Datos de la UOC del alumno Benjamín Rodríguez Díaz.
+
+## Descripción
+
+Este repositorio contiene el código y los productos derivados del análisis de la evolución térmica reciente de Canarias y su relación exploratoria con indicadores ambientales de los ODS 7, 13, 14 y 15.
+
+## Estructura
+
+- `R/`: script principal del pipeline.
+- `data/`: datos brutos, procesados y metadatos.
+- `outputs/tables/`: tablas generadas.
+- `outputs/figures/`: figuras generadas.
+- `outputs/models/`: modelos entrenados, si procede.
+- `docs/`: documentación complementaria.
+
+## Requisitos
+
+- R >= 4.2
+- Paquetes indicados en el script principal
+- API key de AEMET configurada como variable de entorno:
+
+```r
+Sys.setenv(AEMET_API_KEY = "TU_API_KEY")
